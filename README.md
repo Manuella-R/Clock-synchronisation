@@ -92,6 +92,8 @@ Clients now explicitly state when times are sent and received.
 
 # 📊 Example Output
 
+https://github.com/user-attachments/assets/f318d5cc-600e-4916-a739-c5f16e52294f
+
 Server
 ```
 127.0.0.1:53491 got connected successfully
